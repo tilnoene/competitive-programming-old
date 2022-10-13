@@ -8,4 +8,4 @@ do {
     cout << '\n';
 } while (next_permutation(arr.begin(), arr.end()));
 
-// output: 1,2,3; 1,3,2; 2,1,3; 2,3,1; 3,1,2; 3,2,1; 
+// output: 1,2,3; 1,3,2; 2,1,3; 2,3,1; 3,1,2; 3,2,1;
