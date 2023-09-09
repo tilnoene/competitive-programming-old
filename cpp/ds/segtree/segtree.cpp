@@ -6,7 +6,7 @@
 // seg.build(arr) // optional
 //
 // query(l, r) // query (sum/maximum/minimum) in interval [l, r]
-// update(i, v) // update pos i to v
+// update(i, v) // update value in position i to v
 //
 // merge(a, b) // change to desired operation
 // ftype // the node type
